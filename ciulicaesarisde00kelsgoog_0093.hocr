@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ciulicaesarisde00kelsgoog_0093.png"; bbox 0 0 2796 4207; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 485 449 2292 548">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 485 449 2292 548">
+     <span class='ocr_line' id='line_1_1' title="bbox 485 449 2292 548; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 485 483 895 548; x_wconf 67' lang='lat' dir='ltr'><strong>BATTLE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 962 484 1494 548; x_wconf 82' lang='lat' dir='ltr'>BETWEEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 1567 449 1991 548; x_wconf 71' lang='lat' dir='ltr'><strong>CAESAR</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2063 482 2292 546; x_wconf 75' lang='grc' dir='ltr'><strong>ΛΝΒ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 301 571 2475 723">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 301 571 2475 723">
+     <span class='ocr_line' id='line_1_2' title="bbox 963 571 1802 634; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 963 572 1178 634; x_wconf 80' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1252 571 1802 634; x_wconf 77' lang='lat' dir='ltr'>HELVETII.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 301 657 2475 723; baseline 0.001 -11"><span class='ocrx_word' id='word_1_7' title='bbox 301 663 381 712; x_wconf 84' lang='grc' dir='ltr'><strong>Το</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 392 663 527 723; x_wconf 79' lang='lat' dir='ltr'><strong><em>sace</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 540 673 598 720; x_wconf 77' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 610 665 683 710; x_wconf 83' lang='lat'><strong>68.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1139 663 1259 711; x_wconf 85' lang='lat' dir='ltr'><strong>Lib.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1283 663 1326 710; x_wconf 92' lang='grc' dir='ltr'><strong>Ι.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1344 675 1387 710; x_wconf 89' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1413 664 1485 710; x_wconf 80' lang='lat'><strong>24.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1510 674 1626 721; x_wconf 83' lang='lat' dir='ltr'>sqq.</span> <span class='ocrx_word' id='word_1_16' title='bbox 2182 657 2366 711; x_wconf 77' lang='lat' dir='ltr'>PLAN</span> <span class='ocrx_word' id='word_1_17' title='bbox 2397 661 2475 716; x_wconf 89' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
